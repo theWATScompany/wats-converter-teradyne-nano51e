@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeradyneNano51e", "TeradyneNano51e.csproj", "{F920243D-ACA5-4506-B06E-E1DB495D2046}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F920243D-ACA5-4506-B06E-E1DB495D2046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F920243D-ACA5-4506-B06E-E1DB495D2046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F920243D-ACA5-4506-B06E-E1DB495D2046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F920243D-ACA5-4506-B06E-E1DB495D2046}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9457EB1-9F55-4DE1-8432-ED80F35B4B3B}
+	EndGlobalSection
+EndGlobal
